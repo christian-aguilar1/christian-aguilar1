@@ -19,4 +19,4 @@ Tools: Angular, Flask, Firebase, Kivy
 
 📧 reach me: christianaguilarm1@gmail.com
 
-<a href="https://www.linkedin.com/in/christian-aguilar05/">@christian-aguilar05</a>
+<a href="https://www.linkedin.com/in/christian-aguilar05/" target="_blank">@christian-aguilar05</a>
