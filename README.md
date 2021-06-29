@@ -11,9 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in data science, machine learning, big data, electric market (Electrical Engineer)
+I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in Frontend Developer and Web development.
 
 Languages: Python, HTML, CSS, JavaScript, PostgreSQL
+
 Tools: Angular, Flask, Firebase, Kivy
 
 📧 reach me: christianaguilarm1@gmail.com
