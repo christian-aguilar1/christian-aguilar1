@@ -11,8 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in data science, machine learning, big data, electric market (Electrical Engineer)
 
 Languages: Python, HTML, CSS, JavaScript, PostgreSQL
