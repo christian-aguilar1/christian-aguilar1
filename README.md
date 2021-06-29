@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**christian-aguilar1/christian-aguilar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in data science, machine learning, big data, electric market (Electrical Engineer)
+
+Languages: Python, HTML, CSS, JavaScript, PostgreSQL
+Tools: Angular, Flask, Firebase, Kivy
+
+📧 reach me: christianaguilarm1@gmail.com
+<a href="linkedin.com/in/christian-aguilar05/">@christian-aguilar05</a>
