@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in Frontend Developer and Web development.
+I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in Web development and Frontend Development.
 
 Languages: Python, HTML, CSS, JavaScript, PostgreSQL
 
