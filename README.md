@@ -17,7 +17,7 @@ I'm a developer and currently a student of Computer Engineering and Management, 
 
 - Tools: React, Angular, Firebase
 
-I'm currently learning **React Advanced!**😃
+I'm currently learning React Advanced!😃
 
 📧 reach me: christianaguilarm1@gmail.com
 
