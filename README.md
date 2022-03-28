@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Christian 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,12 +11,14 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I’m interested in Web development and Frontend Development.
+I'm a developer and currently a student of Computer Engineering and Management, UDP. And, I am passionate about Frontend Development💻 and Web Development🌐
 
-Languages: Python, HTML, CSS, JavaScript, PostgreSQL
+- Languages: JavaScript, HTML, CSS, PostgreSQL, Python
 
-Tools: Angular, Flask, Firebase, Kivy
+- Tools: React, Angular, Firebase
+
+I'm currently learning **React Advanced!**😃
 
 📧 reach me: christianaguilarm1@gmail.com
 
-<a href="https://www.linkedin.com/in/christian-aguilar05/" target="_blank">@christian-aguilar05</a>
+Mi linkedIn: <a href="https://www.linkedin.com/in/christian-aguilar05/" target="_blank">@christian-aguilar05</a>
